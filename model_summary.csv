@@ -1,0 +1,10 @@
+Metric,Value
+Intercept,176284.38509749304
+GrLivArea_Coefficient,53103.955214554284
+BedroomAbvGr_Coefficient,-21527.025055935428
+TotalBathrooms_Coefficient,9312.147979674424
+R_squared,0.5643169618436868
+RMSE,43641.648744491664
+MAE,33433.752407347354
+Training_Samples,1436.0
+Test_Samples,1459.0
